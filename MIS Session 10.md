@@ -79,3 +79,23 @@ Outcomes
 	- Pleasure and Pastime
 	- Relieving Stress
 	- Recording Personal History
+
+## Business Use of Social Media
+- Cross selling and up selling
+- Social Media Front End -> Social CRM
+
+## Social Media: Pros and Cons
+- Benefits
+	- Build Relationships
+	- Share your expertise
+	- Increase your visibility
+	- Educate yourself
+	- Connect Anytime
+- Disadvantages
+	- Lacks Emotion
+	- License to be hurtful
+	- Decreases F2F
+	- Inauthentic Expressions
+	- Diminishes Understanding
+	- Causes F2F to feel disconnected
+	- Facilitates Laziness
