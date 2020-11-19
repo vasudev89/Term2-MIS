@@ -99,3 +99,4 @@ Outcomes
 	- Diminishes Understanding
 	- Causes F2F to feel disconnected
 	- Facilitates Laziness
+	- Trigger Happy People - Forward things without thinking
