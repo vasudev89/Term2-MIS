@@ -37,5 +37,31 @@
 
 ## Another Poll - Video
 - Video showing a commando unit climbing a building using a Pole
+- Stealth was necessary - Could not climb the building using stairs since it might be monitored
 - Why are we watching it
 - Using the right tool for the right purpose
+
+Outcomes
+- Understand the solution
+- Arrive at a solution
+
+## Another Poll - Video
+- Video showing a Caterpillar curling in a J Shape
+- Transforming into a Butterfly
+
+Outcomes
+- Transformation
+- Leave your past and question your present
+
+## Evolving Business and MIS Relationship
+- Bi Directional
+- MIS is a vehicle of driving innovation across the organization
+- Business needs are met with MIS
+- MIS creates innovation for Business
+
+Outcomes
+- Be the harbinger of change
+- Make place for new ideas
+
+## Social Media
+	- 2.0
