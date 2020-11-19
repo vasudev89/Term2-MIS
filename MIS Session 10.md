@@ -64,4 +64,18 @@ Outcomes
 - Make place for new ideas
 
 ## Social Media
+	- Business Use of Social Media
 	- 2.0
+
+## Why do we like Facebook?
+- Why we comment? => Because we want to say something
+- Posting makes us feel connected
+- Why we like something? => Empathy
+- Exploratory Factor analysis on motivation charts in slides
+- To bring valuable and entertaining content
+- Define ourselves
+- Research Study:
+	- Collecting & Sharing Info
+	- Pleasure and Pastime
+	- Relieving Stress
+	- Recording Personal History
