@@ -100,3 +100,25 @@ Outcomes
 	- Causes F2F to feel disconnected
 	- Facilitates Laziness
 	- Trigger Happy People - Forward things without thinking
+
+## Useful Web 2.0 Tools
+- Weblogs
+- Wikis
+- Real Simple Syndication(RSS)
+- Aggregators
+- Social Bookmarking
+
+### Q: When did Web 2.0 Start?
+- Shift from Passive to Active Internet
+
+## Big Huge Labs - Tool
+- Tool to create several things
+
+## Second Life
+- 3D Virtual Environment
+- Site for interacting
+- Avatars are created
+- <a href="https://www.secondlife.com">Secondlife Link</a>
+
+## Go2Web20
+- <a href="https://www.go2web20.com">go2web20 Link</a> 
