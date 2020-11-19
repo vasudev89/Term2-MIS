@@ -131,4 +131,9 @@ Outcomes
 
 ## Surveillance Capitalism - Soshana Zuboff
 - How Social Medai Cos capture consumer behaviour to make a profit
+- 1 video as well
 
+## Learning Pause
+- Write a small summary of points discussed in class
+- Write anything
+	- Personal or Professional Messages
