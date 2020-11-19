@@ -137,3 +137,5 @@ Outcomes
 - Write a small summary of points discussed in class
 - Write anything
 	- Personal or Professional Messages
+
+## Learning Diary: Make a summary of what we have learned and what are your doubts
