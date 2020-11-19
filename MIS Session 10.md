@@ -122,3 +122,13 @@ Outcomes
 
 ## Go2Web20
 - <a href="https://www.go2web20.com">go2web20 Link</a> 
+
+## Web 3.0
+- 2 youtube links in slide
+
+## Book - The Death of Truth - Michiko Kakutani
+- Something wrong retold several times causes people to believe it to be true
+
+## Surveillance Capitalism - Soshana Zuboff
+- How Social Medai Cos capture consumer behaviour to make a profit
+
