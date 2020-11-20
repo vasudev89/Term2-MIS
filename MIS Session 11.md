@@ -47,6 +47,10 @@
 		- Hanish had a new PMO - Jeeva
 		- Jeeva was to Drive all Projects
 
-## Question 1: Where do we want to be ? Target and Priorities
+## PPT Questions
+- Question 2: Where do we want to be ? Target and Priorities
+- Question 3: How to get there? Plan
 
-## Question 2: How to get there? Plan
+## Question: Case Question 1
+1. What would have Jeeva asked?
+2. What are the key problems that have led to this situation?.
