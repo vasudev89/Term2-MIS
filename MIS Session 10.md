@@ -31,33 +31,33 @@
 		- Paytm
 
 ## Decision Types
-- Technical
-- Commercial
-- Techno Commercial People Decisions
+	- Technical
+	- Commercial
+	- Techno Commercial People Decisions
 
 ## Another Poll - Video
-- Video showing a commando unit climbing a building using a Pole
-- Stealth was necessary - Could not climb the building using stairs since it might be monitored
-- Why are we watching it
-- Using the right tool for the right purpose
+	- Video showing a commando unit climbing a building using a Pole
+	- Stealth was necessary - Could not climb the building using stairs since it might be monitored
+	- Why are we watching it
+	- Using the right tool for the right purpose
 
 Outcomes
 - Understand the solution
 - Arrive at a solution
 
 ## Another Poll - Video
-- Video showing a Caterpillar curling in a J Shape
-- Transforming into a Butterfly
+	- Video showing a Caterpillar curling in a J Shape
+	- Transforming into a Butterfly
 
 Outcomes
 - Transformation
 - Leave your past and question your present
 
 ## Evolving Business and MIS Relationship
-- Bi Directional
-- MIS is a vehicle of driving innovation across the organization
-- Business needs are met with MIS
-- MIS creates innovation for Business
+	- Bi Directional
+	- MIS is a vehicle of driving innovation across the organization
+	- Business needs are met with MIS
+	- MIS creates innovation for Business
 
 Outcomes
 - Be the harbinger of change
@@ -68,21 +68,21 @@ Outcomes
 	- 2.0
 
 ## Why do we like Facebook?
-- Why we comment? => Because we want to say something
-- Posting makes us feel connected
-- Why we like something? => Empathy
-- Exploratory Factor analysis on motivation charts in slides
-- To bring valuable and entertaining content
-- Define ourselves
-- Research Study:
-	- Collecting & Sharing Info
-	- Pleasure and Pastime
-	- Relieving Stress
-	- Recording Personal History
+	- Why we comment? => Because we want to say something
+	- Posting makes us feel connected
+	- Why we like something? => Empathy
+	- Exploratory Factor analysis on motivation charts in slides
+	- To bring valuable and entertaining content
+	- Define ourselves
+	- Research Study:
+		- Collecting & Sharing Info
+		- Pleasure and Pastime
+		- Relieving Stress
+		- Recording Personal History
 
 ## Business Use of Social Media
-- Cross selling and up selling
-- Social Media Front End -> Social CRM
+	- Cross selling and up selling
+	- Social Media Front End -> Social CRM
 
 ## Social Media: Pros and Cons
 - Benefits
@@ -139,3 +139,23 @@ Outcomes
 	- Personal or Professional Messages
 
 ## Learning Diary: Make a summary of what we have learned and what are your doubts
+
+
+# Learnings:
+
+## From the Video on the Caterpillar signifying transformation
+	- We as students need to transform ourselves before the end of the course
+	- We cannot be the same as we were before we entered
+	- The delta must help us improve so that we can bring about better change in our lives and those of others
+	- Questioning the present is very important for change
+
+## MIS Significance
+	- MIS and Business have a symbiotic relationship
+	- MIS is a major conduit for innovation within a business
+
+## Social Media: Impact and Relevance
+	- A gift and a curse
+	- Judicious understanding and use is a need for both individuals and firms
+	- Variations have led to evolutionary changes in 2.0 and 3.0
+		- Very dynamic
+		- Very impactful
