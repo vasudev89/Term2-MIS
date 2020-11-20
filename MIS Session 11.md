@@ -40,7 +40,7 @@
 			- Provisioning of land line, leased lines and enterprise services required more IT support
 			- Customers are demanding and customer loyalty is extremely imp
 			- Chart showing 205 Projects displayed: Most reflected delays
-		- Many acquisitions
+		- Many acquisitions leading to
 			- Decentralized Ops
 			- Many local CFOs
 		- UCC was brought in to help with Centralization in IT ops and infra
