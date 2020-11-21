@@ -57,4 +57,5 @@
 # MIS Session 12 - Prof Sanjeeva Dubey - 21/11/2020
 
 ## Tool:
-- Jamboard Link: <a href="https://jamboard.google.com/d/1Gatq-X-k0gMJ7DrVWrFeo3FpT1BAn3-0qZVuIPaT0Y0/edit?usp=sharing"></a>
+- Jamboard Link: 
+<a href="https://jamboard.google.com/d/1Gatq-X-k0gMJ7DrVWrFeo3FpT1BAn3-0qZVuIPaT0Y0/edit?usp=sharing">Link</a>
