@@ -1,56 +1,161 @@
-# MIS Session 11 - Prof Sanjeeva Dubey - 21/11/2020
+# MIS Session 11 - Prof Sanjeeva Dubey - 19/11/2020
 
-## Vayutel Case
-#### Prologue
-- Client Situation
-- Large project with minimal progress over the past year
-- Client - Sr. Manager
-	- Outsourced IT ops to IT Vendor
-	- As a control measure, a former Consultant to take over as a Crisit Mngr(Citical Situation Mngr)
+## Chatbot Exercise
+## Delhi Gvt has used facial recognition to find lost children
 
-#### Unhappiness Galore
-- Mr. Narayan Jaiswal - President, *Vayutel*
-- Angry because of non performance of Vendor
-- Pjct Value = USD 2.5 Billion
-- UCC(Universal Computer Corporation) - Client Vendor
-	- Led by HS(Hanish Sahtrabuddhe)
-- Many believed the pjct would be scrapped 
-	- Bank Guarantee would be encashed
-	- Arbitration Route might be followed
-	- Legal Team of UCC involved to manage recover money in case of termination to levy termination clauses
-- Vayutel
-	- Founded in 2005
-	- Telecom Company
-		- Mobile - Average Rev Per User(ARPU) = Rs 400
-		- Landline - ARPU = Rs 1100
-	- 2005-06
-		- Growth period for the Telecom Sector
-		- UCC had signed a 10 year contract
-			- Provide IT Services via Opex: all services and hardware, software is charged as rent for the period of the contract 
-			- The risk and reward was to be shared by the vendor i.e. UCC.
-			- Very different model in the Telecom Sector at the time
-		- Path breaking project
-			- Execution had challenges
-			- Workers remained unrecognized and unnoticed
-		- Expats brought in to execute the pjct
-			- Unaware of culture or local conditions
-			- Drain on Profitability
-		- Vayutel Major Pains:
-			- Unable to grow due to poor IT support
-			- Provisioning of land line, leased lines and enterprise services required more IT support
-			- Customers are demanding and customer loyalty is extremely imp
-			- Chart showing 205 Projects displayed: Most reflected delays
-		- Many acquisitions leading to
-			- Decentralized Ops
-			- Many local CFOs
-		- UCC was brought in to help with Centralization in IT ops and infra
-		- Hanish had a new PMO - Jeeva
-		- Jeeva was to Drive all Projects
+## MIS is a Practical Subject
 
-## PPT Questions
-- Question 2: Where do we want to be ? Target and Priorities
-- Question 3: How to get there? Plan
+## Socrates was against books
+	- Listening is a good tool
 
-## Question: Case Question 1
-1. What would have Jeeva asked?
-2. What are the key problems that have led to this situation?.
+## Understand the Elephant
+	- IT has several perspectives
+	- Identify the best use case
+	- Identify the Unique Value Proposition
+	- Could be short lived - easy to imitate
+	- KM announced that they have the largest ATM N/W
+	- Tied up with other banks to create such a N/W
+
+## Netflix
+	- Unique value proposition
+		- Diverse Content
+		- Allows users to return Frequently
+		- Recommendation Engine
+
+## Slido
+	- Poll about understanding the Elephant
+	- Give an Example of UVP or something unique done using IT:
+		- Steve Jobs - Apple 2
+		- Ola and Uber
+		- Zomato
+		- Paytm
+
+## Decision Types
+	- Technical
+	- Commercial
+	- Techno Commercial People Decisions
+
+## Another Poll - Video
+	- Video showing a commando unit climbing a building using a Pole
+	- Stealth was necessary - Could not climb the building using stairs since it might be monitored
+	- Why are we watching it
+	- Using the right tool for the right purpose
+
+Outcomes
+- Understand the solution
+- Arrive at a solution
+
+## Another Poll - Video
+	- Video showing a Caterpillar curling in a J Shape
+	- Transforming into a Butterfly
+
+Outcomes
+- Transformation
+- Leave your past and question your present
+
+## Evolving Business and MIS Relationship
+	- Bi Directional
+	- MIS is a vehicle of driving innovation across the organization
+	- Business needs are met with MIS
+	- MIS creates innovation for Business
+
+Outcomes
+- Be the harbinger of change
+- Make place for new ideas
+
+## Social Media
+	- Business Use of Social Media
+	- 2.0
+
+## Why do we like Facebook?
+	- Why we comment? => Because we want to say something
+	- Posting makes us feel connected
+	- Why we like something? => Empathy
+	- Exploratory Factor analysis on motivation charts in slides
+	- To bring valuable and entertaining content
+	- Define ourselves
+	- Research Study:
+		- Collecting & Sharing Info
+		- Pleasure and Pastime
+		- Relieving Stress
+		- Recording Personal History
+
+## Business Use of Social Media
+	- Cross selling and up selling
+	- Social Media Front End -> Social CRM
+
+## Social Media: Pros and Cons
+- Benefits
+	- Build Relationships
+	- Share your expertise
+	- Increase your visibility
+	- Educate yourself
+	- Connect Anytime
+- Disadvantages
+	- Lacks Emotion
+	- License to be hurtful
+	- Decreases F2F
+	- Inauthentic Expressions
+	- Diminishes Understanding
+	- Causes F2F to feel disconnected
+	- Facilitates Laziness
+	- Trigger Happy People - Forward things without thinking
+
+## Useful Web 2.0 Tools
+- Weblogs
+- Wikis
+- Real Simple Syndication(RSS)
+- Aggregators
+- Social Bookmarking
+
+### Q: When did Web 2.0 Start?
+- Shift from Passive to Active Internet
+
+## Big Huge Labs - Tool
+- Tool to create several things
+
+## Second Life
+- 3D Virtual Environment
+- Site for interacting
+- Avatars are created
+- <a href="https://www.secondlife.com">Secondlife Link</a>
+
+## Go2Web20
+- <a href="https://www.go2web20.com">go2web20 Link</a> 
+
+## Web 3.0
+- 2 youtube links in slide
+
+## Book - The Death of Truth - Michiko Kakutani
+- Something wrong retold several times causes people to believe it to be true
+
+## Surveillance Capitalism - Soshana Zuboff
+- How Social Medai Cos capture consumer behaviour to make a profit
+- 1 video as well
+
+## Learning Pause
+- Write a small summary of points discussed in class
+- Write anything
+	- Personal or Professional Messages
+
+## Learning Diary: Make a summary of what we have learned and what are your doubts
+
+
+# Learnings:
+
+## From the Video on the Caterpillar signifying transformation
+	- We as students need to transform ourselves before the end of the course
+	- We cannot be the same as we were before we entered
+	- The delta must help us improve so that we can bring about better change in our lives and those of others
+	- Questioning the present is very important for change
+
+## MIS Significance
+	- MIS and Business have a symbiotic relationship
+	- MIS is a major conduit for innovation within a business
+
+## Social Media: Impact and Relevance
+	- A gift and a curse
+	- Judicious understanding and use is a need for both individuals and firms
+	- Variations have led to evolutionary changes in 2.0 and 3.0
+		- Very dynamic
+		- Very impactful
