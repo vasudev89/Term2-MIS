@@ -2,7 +2,7 @@
 
 ## Diary Discussion
 - Pinju
-- Shipra Tomar Summary is good: displayed in classroom
+- Shipra Goel Summary is good: displayed in classroom
 
 ## Video:
 - Manjhi Video
