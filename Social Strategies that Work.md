@@ -37,6 +37,15 @@
 		- Invitations to cocktail parties at museums
 		- Mardi Gras Events
 		- Events produce new friendships
+		- Yelpers continue to write reviews to maintain status
+		- Elite yelpers produce 100 more reviews than those of non elite yelpers
+	- Strategy
+		- Quality Content for Free
+		- Best Contributors meet like minded people
+
+## Business and Pleasure
+- Companies in different sectors also building strategies
+- 
 
 
 # MIS Session 13 - Prof Sanjeeva Dubey - 26/11/2020
