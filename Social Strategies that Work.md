@@ -70,6 +70,6 @@
 ## Theory in Practice
 - Social Utility Test: Will the strategy help customers solve a social challenge they can't easily address on their own
 - Social Solution Test: Will the strategy leverage the firm's unique resources and provide a differentiated, hard to copy solution?
-
+<img src="https://github.com/vasudev89/Term2-MIS/blob/master/Social%20Strategies%20that%20Work.PNG">
 
 # MIS Session 13 - Prof Sanjeeva Dubey - 26/11/2020
