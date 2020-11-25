@@ -45,7 +45,26 @@
 
 ## Business and Pleasure
 - Companies in different sectors also building strategies
-- 
+- Example: Ebay
+	- Group Gifts help people purchase better targeted and more expensive gifts than they might otherwise purchase
+	- Group Gifts participants
+		- Sign up for new PayPal accounts
+		- 1/3rd return to eBay within a month to purchase other items
+		- Average price of Group Gifts is 5 times higher than that of an avg ebay sale
+	- Strategy:
+		- Increases willingness to pay
+		- Strengthens friendships through giving gifts
+		- They ask their friends to buy from eBay
+- FB updates people about events
 
+## How to Build One
+- Rule 1: Don't focus on business goals without understanding customer's unmet social needs
+- Rule 2: Address unmet social needs find a way to connect the proposed solution to business goals
+	- Harder to identify
+	- Social Challenges
+		- Connect with Strangers
+		- Interact with Strangers
+		- Reconnect with Friends
+		- Interact with Friends
 
 # MIS Session 13 - Prof Sanjeeva Dubey - 26/11/2020
