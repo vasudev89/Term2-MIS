@@ -1,5 +1,5 @@
 # Case: Social Strategies that Work
-<a href="https://services.hbsp.harvard.edu/api/courses/768229/items/R1111H-PDF-ENG/sclinks/322007c366c1b0e2c9de0c83c63a3ad4">
+<a href="https://services.hbsp.harvard.edu/api/courses/768229/items/R1111H-PDF-ENG/sclinks/322007c366c1b0e2c9de0c83c63a3ad4">Case Link</a>
 
 ## Why People use Social N/Ws
 - Meet new people
@@ -70,6 +70,7 @@
 ## Theory in Practice
 - Social Utility Test: Will the strategy help customers solve a social challenge they can't easily address on their own
 - Social Solution Test: Will the strategy leverage the firm's unique resources and provide a differentiated, hard to copy solution?
+- Business Value Test: Will the social solution directly lead to improved profitability?
 <img src="https://github.com/vasudev89/Term2-MIS/blob/master/Social%20Strategies%20that%20Work.PNG">
 
 # MIS Session 13 - Prof Sanjeeva Dubey - 26/11/2020
