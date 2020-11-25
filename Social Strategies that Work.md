@@ -67,4 +67,9 @@
 		- Reconnect with Friends
 		- Interact with Friends
 
+## Theory in Practice
+- Social Utility Test: Will the strategy help customers solve a social challenge they can't easily address on their own
+- Social Solution Test: Will the strategy leverage the firm's unique resources and provide a differentiated, hard to copy solution?
+
+
 # MIS Session 13 - Prof Sanjeeva Dubey - 26/11/2020
